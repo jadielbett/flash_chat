@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "306610356255",
+    "project_id": "flashchat-4e455",
+    "storage_bucket": "flashchat-4e455.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:306610356255:android:33d5d135bbe3a343f1d52a",
+        "android_client_info": {
+          "package_name": "com.bettjadiel.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "306610356255-vhjbn9fni37mvmihpu8ivc455adgmhb8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCe3ynG831crTYJwqZ4awbML3aQst1Z2eI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "306610356255-vhjbn9fni37mvmihpu8ivc455adgmhb8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
